@@ -1,0 +1,10 @@
+C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\bin\Debug\ReadDataFromFiles.exe.config
+C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\bin\Debug\ReadDataFromFiles.exe
+C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\bin\Debug\ReadDataFromFiles.pdb
+C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\bin\Debug\Newtonsoft.Json.dll
+C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\bin\Debug\Newtonsoft.Json.xml
+C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\obj\Debug\ReadDataFromFiles.csproj.CoreCompileInputs.cache
+C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\obj\Debug\ReadDataFromFiles.csproj.CopyComplete
+C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\obj\Debug\ReadDataFromFiles.exe
+C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\obj\Debug\ReadDataFromFiles.pdb
+C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\obj\Debug\ReadDataFromFiles.csproj.AssemblyReference.cache

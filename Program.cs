@@ -20,6 +20,7 @@ namespace ReadDataFromFiles
             Regex _checkString = new Regex("[^A-Za-z0-9]");
             Dictionary<string, string> _softwareInfo = new Dictionary<string, string>();
             Dictionary<string, string> _otherVersion = new Dictionary<string, string>();
+            List<string> _versionList = new List<string>();
 
             Console.WriteLine("Please Insert File Path: ");
             _filePath = Console.ReadLine().Trim('"');
@@ -51,7 +52,9 @@ namespace ReadDataFromFiles
                     }else if (_line.Contains("dial_app"))
                     {
                         _otherVersion.Add(_line.Split(':')[0], _line.Split(':')[1]);
-                        _softwareInfo["other_version"] = JsonConvert.SerializeObject(_otherVersion);
+                        _versionList.Add(JsonConvert.SerializeObject(_otherVersion));
+                        _softwareInfo["other_version"] = JsonConvert.SerializeObject(_versionList);
+                        _versionList.Clear();
                     }
                 }
             }

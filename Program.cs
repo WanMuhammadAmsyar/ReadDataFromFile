@@ -24,7 +24,14 @@ namespace ReadDataFromFiles
 
             Console.WriteLine("Please Insert File Path: ");
             _filePath = Console.ReadLine().Trim('"');
-            _textData = File.ReadAllText(_filePath);
+            try
+            {
+                _textData = File.ReadAllText(_filePath);
+            }catch(Exception ex)
+            {
+                Console.WriteLine("Error to read file: " + ex.Message);
+            }
+
             StringReader _reader = new StringReader(_textData);
 
             for(string _line = _reader.ReadLine(); _line != null; _line = _reader.ReadLine())

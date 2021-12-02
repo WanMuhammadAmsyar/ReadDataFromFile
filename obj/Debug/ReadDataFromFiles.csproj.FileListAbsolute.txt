@@ -7,3 +7,4 @@ C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\obj\Debug\ReadDataFromFile
 C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\obj\Debug\ReadDataFromFiles.csproj.CopyComplete
 C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\obj\Debug\ReadDataFromFiles.exe
 C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\obj\Debug\ReadDataFromFiles.pdb
+C:\Users\P2 Digital Macbook\Desktop\ReadDataFromFiles\obj\Debug\ReadDataFromFiles.csproj.AssemblyReference.cache
